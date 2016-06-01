@@ -1,0 +1,8 @@
+# Generated files
+out/
+
+# IDEA generated files
+.idea/
+
+# Mac file system
+.DS_Store
